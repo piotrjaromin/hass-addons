@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Add-ons by Piotr Jaromin
+url: 'https://github.com/piotrjaromin/homeassistant-addons'
+maintainer: Piotr Jaromin
